@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=71DC1C&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I'm+Umesh+Singh+Bisht;Software+Developer+%7C+Frontend+Specialist;3.5%2B+years+building+for+the+web" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -37,12 +35,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USB18&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USB18&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USB18&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=USB18&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=USB18&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
 ## 📫 Let's Connect
