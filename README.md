@@ -34,11 +34,15 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=USB18&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=USB18&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/USB18?style=for-the-badge&logo=github&color=71DC1C&labelColor=1a1a1a" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/USB18/USB18?style=for-the-badge&logo=github&color=71DC1C&labelColor=1a1a1a" alt="Stars" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/71DC1C/USB18" alt="USB18's contribution graph" width="100%" />
 </p>
 
 ## 📫 Let's Connect
